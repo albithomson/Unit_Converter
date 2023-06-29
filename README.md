@@ -24,4 +24,10 @@ The site is live at [here](https://albithomson.github.io/Unit_Converter/area.htm
 * Fahrenheit °F
 * Kelvin K
 
-https://albithomson.github.io/Unit_Converter/area.html
+  ###Project Sample
+
+  ![1](https://github.com/albithomson/Unit_Converter/assets/90432872/5f73ae11-845d-458a-a41e-deeb49b98e33)
+![1 2](https://github.com/albithomson/Unit_Converter/assets/90432872/d9fcce92-2c3f-4fff-a70b-97fca7a0f5ef)
+![1 3](https://github.com/albithomson/Unit_Converter/assets/90432872/01681cc6-86d1-4d78-b8e2-30269def65cf)
+
+
